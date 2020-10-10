@@ -27,3 +27,8 @@ Telegram Notification for Fail2Ban
    ```bash
    sudo systemctl restart fail2ban
    ```
+
+## Demo
+
+![demo.png](demo.png)
+
